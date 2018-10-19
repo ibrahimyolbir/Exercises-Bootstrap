@@ -1,0 +1,13 @@
+/* .container-main{
+    display: flex;
+    flex-direction: row;
+    
+}*/
+
+.d-flex{
+    margin-top: 50px;
+}
+.d-flex div{
+    border: 1px solid black;
+    width: 300px;
+} 
